@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.12.15)  17 FEB 2021 23:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.12.15)  10 MAR 2021 01:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -155,31 +155,24 @@ LaTeX Font Info:    ... okay on input line 17.
 \everyMPtoPDFconversion=\toks18
 ) [1
 
-{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 65.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 65.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 65.
- [2]
+{c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
 (./notebooking-manual.aux) ) 
 Here is how much of TeX's memory you used:
- 2035 strings out of 479383
- 28258 string characters out of 5873319
+ 2017 strings out of 479383
+ 28069 string characters out of 5873319
  314343 words of memory out of 5000000
- 19183 multiletter control sequences out of 15000+600000
- 407372 words of font info for 40 fonts, out of 8000000 for 9000
+ 19172 multiletter control sequences out of 15000+600000
+ 404934 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  66i,11n,72p,664b,200s stack positions out of 5000i,500n,10000p,200000b,80000s
 <c:/texlive/2020/texmf-dist/fonts/type1/public/amsf
 onts/cm/cmbx12.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mcsc10.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
-><c:/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on notebooking-manual.pdf (2 pages, 52268 bytes).
+>
+Output written on notebooking-manual.pdf (2 pages, 45120 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
- 18 compressed objects within 1 object stream
+ 23 PDF objects out of 1000 (max. 8388607)
+ 15 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
